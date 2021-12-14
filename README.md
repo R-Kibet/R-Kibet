@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R-Kibet
-- 👀 Android deelopment ,cybersecurity & home automation
+- 👀 Android developer ,cybersecurity & home automation
 - 🌱 Computer Engineering
 - 💞️ 
 - 📫 richkibz@gmail.com
