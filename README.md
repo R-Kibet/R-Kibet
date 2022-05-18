@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Kibet Electrical and Electronic Engineer majored in Computer and Electronic
-- 👀 Android developer ,cybersecurity & home automation
-- 🌱 Computer Engineering
+- 👀 Android developer ,cybersecurity , home automation and Machine Learning
+- 🌱 Software Engineer
 - 💞️ 
 - 📫 richkibz@gmail.com
 
